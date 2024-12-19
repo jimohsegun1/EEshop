@@ -60,6 +60,6 @@ I developed a fully functional **E-commerce Application** aimed at providing a s
 - Designed and implemented features tailored to user and business requirements.
 
 ---
-### Figma : <a href="https://www.figma.com/design/TBe3mud1W5e0a5b3WrCcfe/Forever?node-id=0-1&p=f&t=k9ivH7lFMvhUZW53-0" target="_blank">
+### Figma : <a href="https://www.figma.com/design/TBe3mud1W5e0a5b3WrCcfe/Forever?node-id=0-1&p=f&t=k9ivH7lFMvhUZW53-0" target="_blank"> figma link </a>
 ## Conclusion  
 The E-commerce Application project allowed me to demonstrate my ability to build an end-to-end solution for a modern online shopping platform. It showcases my skills in full-stack development, payment integrations, and creating a user-focused design.
